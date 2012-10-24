@@ -1,4 +1,4 @@
-PreClinic
+PETacq
 =========
 
-Processing of preclinical data: PET, CT and MRI
+Acquisition and (pre)processing of PET data + microCT data

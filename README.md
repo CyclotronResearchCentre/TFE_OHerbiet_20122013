@@ -1,7 +1,7 @@
 PETacq
 =========
 
-The persons in charge of this repository are:
+Administrators:
 - Mohamed Bahri
 - Christophe Phillips
 
